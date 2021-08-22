@@ -10482,6 +10482,7 @@ section .color-overlay {
 
 p {
     margin-bottom: 20px;
+    overflow-wrap: anywhere;
 }
 
 p.intro {
@@ -10494,7 +10495,7 @@ p.intro {
     background: #f6f6f6;
 }
 
-.no-bottom .col-md-12 {}
+ .col-md-12 {}
 
 .no-bottom {
     padding-bottom: 0 !important;
